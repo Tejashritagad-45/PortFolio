@@ -69,7 +69,7 @@ const About = () => {
                 whileHover={{ scale: 1.05 }}
               >
                 <div className='text-2xl md:text-3xl font-bold 
-                    text-neo-primary mb-1 md:mb-2'>50+</div>
+                    text-neo-primary mb-1 md:mb-2'>15+</div>
                 <div>Project Completed</div>
               </motion.div>
               <motion.div
