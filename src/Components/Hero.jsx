@@ -21,7 +21,7 @@ const Hero = () => {
               viewport={{ once: false, amount: 0.3 }}
               className="inline-block px-4 py-2 glass dark:glass rounded-full text-neo-secondary font-medium mb-4"
             >
-              🚀 React Developer | MERN Stack Developer
+              🚀 Frontend Developer | MERN Stack Developer
             </motion.span>
 
             {/* Heading */}
